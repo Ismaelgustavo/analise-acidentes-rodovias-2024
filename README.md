@@ -15,6 +15,6 @@ Este projeto realiza uma análise exploratória de mais de 60 mil registros de a
 - GitHub (para versionamento)
 
 ## 📊 Resultados  
-Post no Medium: [link aqui]  
+Post no Medium: [(https://medium.com/@ismael.gustavo2471/mais-de-60-mil-acidentes-o-que-os-dados-revelam-sobre-as-rodovias-brasileiras-6cf241fb2152)]  
 
 
